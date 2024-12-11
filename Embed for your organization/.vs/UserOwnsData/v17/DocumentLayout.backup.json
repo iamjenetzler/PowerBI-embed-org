@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\userownsdata\\scripts\\embededit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|solutionrelative:userownsdata\\scripts\\embededit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|c:\\users\\jeetzler\\documents\\github\\powerbi-developer-samples\\.net framework\\embed for your organization\\userownsdata\\scripts\\events.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|solutionrelative:userownsdata\\scripts\\events.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\userownsdata\\views\\shared\\embed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|solutionrelative:userownsdata\\views\\shared\\embed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\userownsdata\\scripts\\data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|solutionrelative:userownsdata\\scripts\\data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\userownsdata\\content\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|solutionrelative:userownsdata\\content\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\userownsdata\\scripts\\embed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|solutionrelative:userownsdata\\scripts\\embed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\userownsdata\\scripts\\globals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|solutionrelative:userownsdata\\scripts\\globals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\userownsdata\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{550BDA61-848F-4422-8E36-E13C82787B4D}|UserOwnsData\\UserOwnsData.csproj|solutionrelative:userownsdata\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data.js",
+              "DocumentMoniker": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Scripts\\data.js",
+              "RelativeDocumentMoniker": "UserOwnsData\\Scripts\\data.js",
+              "ToolTip": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Scripts\\data.js",
+              "RelativeToolTip": "UserOwnsData\\Scripts\\data.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-02T21:41:10.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\libman.json",
+              "RelativeDocumentMoniker": "UserOwnsData\\libman.json",
+              "ToolTip": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\libman.json",
+              "RelativeToolTip": "UserOwnsData\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T18:12:26.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Content\\style\\style.css",
+              "RelativeDocumentMoniker": "UserOwnsData\\Content\\style\\style.css",
+              "ToolTip": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Content\\style\\style.css",
+              "RelativeToolTip": "UserOwnsData\\Content\\style\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-01T23:02:57.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "embed.js",
+              "DocumentMoniker": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Scripts\\embed.js",
+              "RelativeDocumentMoniker": "UserOwnsData\\Scripts\\embed.js",
+              "ToolTip": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Scripts\\embed.js",
+              "RelativeToolTip": "UserOwnsData\\Scripts\\embed.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-01T20:48:17.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "globals.js",
+              "DocumentMoniker": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Scripts\\globals.js",
+              "RelativeDocumentMoniker": "UserOwnsData\\Scripts\\globals.js",
+              "ToolTip": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Scripts\\globals.js",
+              "RelativeToolTip": "UserOwnsData\\Scripts\\globals.js",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T03:41:10.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Embed.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Views\\Shared\\Embed.cshtml",
+              "RelativeDocumentMoniker": "UserOwnsData\\Views\\Shared\\Embed.cshtml",
+              "ToolTip": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Views\\Shared\\Embed.cshtml",
+              "RelativeToolTip": "UserOwnsData\\Views\\Shared\\Embed.cshtml",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAtwHoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T03:35:02.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "embedEdit.js",
+              "DocumentMoniker": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Scripts\\embedEdit.js",
+              "RelativeDocumentMoniker": "UserOwnsData\\Scripts\\embedEdit.js",
+              "ToolTip": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Scripts\\embedEdit.js",
+              "RelativeToolTip": "UserOwnsData\\Scripts\\embedEdit.js",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T03:38:01.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "events.js",
+              "DocumentMoniker": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Scripts\\events.js",
+              "RelativeDocumentMoniker": "UserOwnsData\\Scripts\\events.js",
+              "ToolTip": "C:\\Users\\jeetzler\\Documents\\GitHub\\PowerBI-Developer-Samples\\.NET Framework\\Embed for your organization\\UserOwnsData\\Scripts\\events.js",
+              "RelativeToolTip": "UserOwnsData\\Scripts\\events.js",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwFMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T21:12:09.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
